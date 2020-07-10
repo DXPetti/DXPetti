@@ -3,7 +3,7 @@
 
 ### Hello there 👋
 
-I'm James Pettigrove, I'm a Systems Engineer 👷‍ with a passion for Infrastructure and End User Compute. Predominately spend my days in the Microsoft stack but I'm not shy about Linux 🐧. When I'm not tinkering with Raspberry Pi's or Containers, I'm getting that much needed sunshine in the great outdoors 🌄
+I'm James Pettigrove, I'm a Solutions Engineer 👷‍ with a passion for Infrastructure and End User Compute. Predominately spend my days in the Microsoft stack but I'm not shy about Linux 🐧. When I'm not tinkering with Raspberry Pi's or Containers, I'm getting that much needed sunshine in the great outdoors 🌄
 
 - 🔭 I’m currently working on Managed Services for Federal Goverment customers
 - 🌱 I’m currently learning Cloud, leaning towards Azure and Kubernetes based designs
